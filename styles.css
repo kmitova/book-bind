@@ -93,7 +93,10 @@ h1 {
 
 }
 
-.left-text {
+.left-text p {
   border: 2px solid black;
-  padding: 0.5em;
+  padding: 0.9em;
+  font-size: 1.5em;
+  margin: 3em;
 }
+
